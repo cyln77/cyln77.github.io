@@ -8,4 +8,5 @@ layout: post
     </a>
     {{post.excerpt}}
    </li>
+  {% endfor %} 
 </ul>
